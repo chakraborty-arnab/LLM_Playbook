@@ -25,4 +25,4 @@ cd LLM-Playbooks
 Contributions are welcome! If you have an advanced LLM technique or optimization strategy, feel free to open a pull request. Please ensure your contributions are well-documented and include example use cases.
 
 # License
-This repository is licensed under the MIT License. See the LICENSE file for more details.
+This repository is licensed under the [MIT License](https://github.com/chakraborty-arnab/LLM_playbook/blob/main/LICENSE.txt). See the LICENSE file for more details.
