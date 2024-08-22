@@ -3,7 +3,7 @@
 ## Overview
 The LLM Research Agent is a powerful tool designed to streamline the research process by leveraging advanced language model functionalities. It breaks down broad research topics, expands queries, retrieves relevant information using the Brave Search API, summarizes the results, and provides critical feedback to refine your research.
 
-![Research Agent Response](Research_Agent.jpg)
+![Research_Agent_Response](Research_Agent.jpg)
 
 ## Features
 ### 1. Topic Breakdown Tool
